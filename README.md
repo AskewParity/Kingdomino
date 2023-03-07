@@ -135,7 +135,7 @@ Sample standard deviation: 7.5537139044314
 
 ## Concept: 3D Kingdomino (4K)
 
-![Concept: 3D Kingdomino (4K)](<https://github.com/SLHSCS/kingdomino-project-team-christopher/blob/main/Planning/4K Kingdomino 3D.png>)
+![Concept: 3D Kingdomino (4K)](<https://github.com/Roulette88/Kingdomino/blob/main/Planning/4K%20Kingdomino%203D.png>)
 
 ## GUI mockup: board previews for inactive players (✅ done)
 
@@ -143,4 +143,4 @@ Rubric requirement:
 
 > Can user see all 4 Kingdoms at once?
 
-![GUI mockup: board previews for inactive players (✅ done)](https://github.com/SLHSCS/kingdomino-project-team-christopher/blob/main/Planning/screencapture-file-yitian-killer-gui-mockup-html-2020-11-18-18_21_27.png)
+![GUI mockup: board previews for inactive players (✅ done)](https://github.com/Roulette88/Kingdomino/blob/main/Planning/screencapture-file-yitian-killer-gui-mockup-html-2020-11-18-18_21_27.png)
